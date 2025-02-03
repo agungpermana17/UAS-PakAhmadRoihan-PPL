@@ -1,0 +1,45 @@
+Berikut langkah-langkah yang akan dilakukan:  
+
+### **1. Gambaran Proses Implementasi Sistem**  
+
+#### **A. Persiapan Lingkungan Kerja**  
+- **Perangkat Keras:**  
+  - Menyiapkan server atau komputer untuk menjalankan aplikasi.  
+  - Menyediakan perangkat akses (laptop, PC, atau tablet) untuk pengguna.  
+  - Mengonfigurasi jaringan lokal atau akses internet untuk koneksi sistem.  
+
+- **Perangkat Lunak:**  
+  - Menginstal XAMPP (Apache, MySQL, PHP) sebagai web server lokal.  
+  - Menggunakan VS Code atau Sublime Text untuk pengembangan kode.  
+  - Mengatur repository GitHub untuk version control.  
+
+#### **B. Implementasi dan Integrasi Sistem**  
+1. **Pengembangan dan Pengujian Database:**  
+   - Membuat skema database di MySQL.  
+   - Menyiapkan tabel untuk pengguna, sparepart, transaksi, dll.  
+   - Menghubungkan database dengan sistem menggunakan koneksi PHP (koneksi.php).  
+
+2. **Pembuatan Backend (PHP):**  
+   - Membuat fitur login/logout dengan sesi.  
+   - Menyusun halaman CRUD (Create, Read, Update, Delete) untuk sparepart dan transaksi.  
+   - Mengelola proses autentikasi dan validasi data.  
+
+3. **Pembangunan Frontend (HTML, CSS, Bootstrap, JavaScript):**  
+   - Mendesain antarmuka pengguna yang responsif dan mudah digunakan.  
+   - Menampilkan dashboard stok sparepart dan transaksi.  
+   - Mengintegrasikan fitur pencarian dan filter data.  
+
+4. **Integrasi Hardware dan Jaringan:**  
+   - Menghubungkan sistem dengan server lokal atau hosting cloud.  
+   - Memastikan aplikasi dapat diakses melalui berbagai perangkat.  
+   - Melakukan uji coba koneksi antar perangkat dalam jaringan.  
+
+5. **Pengujian dan Debugging:**  
+   - Melakukan uji coba sistem dengan berbagai skenario penggunaan.  
+   - Memperbaiki bug yang ditemukan selama pengujian.  
+   - Mengoptimalkan kecepatan load dan respons sistem.  
+
+6. **Deployment ke GitHub:**  
+   - Membuat repository baru bernama **UAS-PakAhmadRoihan-PPL**.  
+   - Menyusun README.md yang berisi dokumentasi sistem dan gambar implementasi.  
+   - Mengunggah seluruh kode dan file pendukung ke GitHub.  
